@@ -1,2 +1,2 @@
 # DAS IST EIN COOLES PROJEKT
-## Projekt Version 1.0
+## Projekt Version 2
